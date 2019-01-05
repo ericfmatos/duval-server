@@ -1,0 +1,9 @@
+{
+    "name": "duval",
+    "description": "Duval Web Server",
+    "version": "0.0.1",
+    "dependencies": {
+        "express": "4.4.4",
+        "fs": "*"
+    }
+}
